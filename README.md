@@ -63,7 +63,7 @@ Kubernetes is a beast. Running it yourself on your own hardware is not for the f
 
 Docker Swarm is much simpler than Kubernetes, but it's still built on the same declarative model that uses state reconciliation. MRSK is intentionally designed to around imperative commands, like Capistrano.
 
-Ultimately, there are a myriad of ways to deploy web apps, but this is the toolkit we're using at [37signals](https://37signals.com) to bring (HEY)[https://www.hey.com] (home from the cloud)[https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0] without losing the advantages of modern containerization tooling.
+Ultimately, there are a myriad of ways to deploy web apps, but this is the toolkit we're using at (37signals)[https://37signals.com] to bring [HEY](https://www.hey.com) [home from the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0) without losing the advantages of modern containerization tooling.
 
 ## Configuration
 
